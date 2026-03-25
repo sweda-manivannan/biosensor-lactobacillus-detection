@@ -62,10 +62,17 @@ To develop a rapid, low-cost, and user-friendly diagnostic tool for probiotic de
 - AutoCAD (basic exposure for design concepts)
 
 ## Project Visuals
-- OD vs CFU calibration curve
-- Gel electrophoresis results
-- Biosensor colorimetric response images
-- CRISPR workflow diagram
+### Biosensor Color Change (Key Result)
+![Color Change](biosensor-color-change.png)
+
+### OD vs CFU Calibration
+![OD vs CFU](od-cfu-curve.png)
+
+### Gel Electrophoresis
+![Gel](pcr-amplicon-gel.png)
+
+### UV-Vis Analysis (Optional)
+![UV-Vis](uv-vis-analysis.png)
 
 ##  Future Improvements
 - Full experimental validation of CRISPR-Cas12a detection
